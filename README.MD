@@ -7,4 +7,4 @@ I am a Full Stack Developer at [Dreamstate Discord](https://discord.gg/dreamstat
 - 🕸️ I love building and playing with APIs.
 - 🖥️ I am proficient in JavaScript, HTML, CSS (And many Libraries of these) | Lua, PHP, NodeJS, Python, and probably many more that i'm forgetting.
 - 📫 Need something created? Contact Me – [Discord](https://www.discordapp.com/users/421837462047031297)
-- 💙 Check out my Twitter [Twitter](https://twitter.com/DkalMP4)
+- 💙 Check out my [Twitter](https://twitter.com/DkalMP4)
