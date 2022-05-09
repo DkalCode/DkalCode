@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/DkalCodes/DkalCodes/main/header.png)
+![header](https://github.com/DkalCode/DkalCode/blob/main/header.png)
 
 # Hi, I'm Dkal 👋
 
