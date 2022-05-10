@@ -8,3 +8,5 @@ I am a Full Stack Developer at [Dreamstate Discord](https://discord.gg/dreamstat
 - 🖥️ I am proficient in JavaScript, HTML, CSS (And many Libraries of these) | Lua, PHP, NodeJS, Python, and probably many more that i'm forgetting.
 - 📫 Need something created? Contact Me – [Discord](https://www.discordapp.com/users/421837462047031297)
 - 💙 Check out my [Twitter](https://twitter.com/DkalMP4)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=bf0cd1148ba8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
